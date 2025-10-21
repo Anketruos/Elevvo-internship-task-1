@@ -41,7 +41,8 @@ This project was created as **Task 1** for my **Elevvo internship** 💼
 
 ---
 <img width="1590" height="883" alt="image" src="https://github.com/user-attachments/assets/9ed5b9ca-4804-4e90-83f9-2d35f6b9c8a8" />
-<img width="1791" height="867" alt="image" src="https://github.com/user-attachments/assets/9310bc7b-43d4-487d-8608-94d5e08cd356" />
+<img width="1782" height="864" alt="image" src="https://github.com/user-attachments/assets/c0a63b74-7c71-48b6-98de-12c6d2df2ef5" />
+
 
 
 
