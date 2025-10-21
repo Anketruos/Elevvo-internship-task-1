@@ -311,7 +311,7 @@ footer a:hover {
     }
     
     .button {
-        margin-left: 20px; 
+        margin-left: 130px; 
     }
     
     .header {
@@ -341,4 +341,5 @@ footer a:hover {
         width: 100%;
         max-width: 300px;
     }
+
 }
