@@ -41,14 +41,9 @@ This project was created as **Task 1** for my **Elevvo internship** 💼
 
 ---
 ## On pc
-<img width="1590" height="883" alt="image" src="https://github.com/user-attachments/assets/9ed5b9ca-4804-4e90-83f9-2d35f6b9c8a8" />
-<img width="1782" height="864" alt="image" src="https://github.com/user-attachments/assets/c0a63b74-7c71-48b6-98de-12c6d2df2ef5" />
+<img width="1590" height="883" alt="image" src="<img width="1366" height="1079" alt="Canva task one elevvo internship design" src="https://github.com/user-attachments/assets/493b07de-78f9-446b-aee3-43eb63648a86" />
+" />
 
-## On phone 
-![task 1 on phone 1](https://github.com/user-attachments/assets/b446c6d6-3a22-4314-b7cc-9f550b19a816)
-![task 1 on phone 2](https://github.com/user-attachments/assets/0052b573-eab0-49cf-8e0b-b1c655f1e97a)
-![task 1 on phone 3](https://github.com/user-attachments/assets/43b07cb8-5166-4a3d-bbec-2e6a6489c95e)
-![task 1 on phone 4](https://github.com/user-attachments/assets/6ddcb6e5-7713-497d-8987-36c8cb9c73df)
 
 
 
