@@ -40,9 +40,8 @@ This project was created as **Task 1** for my **Elevvo internship** 💼
 **Task**: #1 - Fashion Website
 
 ---
-## On pc
-<img width="1590" height="883" alt="image" src="<img width="1366" height="1079" alt="Canva task one elevvo internship design" src="https://github.com/user-attachments/assets/493b07de-78f9-446b-aee3-43eb63648a86" />
-" />
+<img width="1366" height="1079" alt="Canva task one elevvo internship design" src="https://github.com/user-attachments/assets/493b07de-78f9-446b-aee3-43eb63648a86" />
+
 
 
 
